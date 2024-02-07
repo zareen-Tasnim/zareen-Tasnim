@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zareen-Tasnim
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Django and Selenium
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in QA
 - 📫 How to reach me zareennidhi.ruet@gmail.com
 
 <!---
